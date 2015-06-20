@@ -1,8 +1,8 @@
 # ichigotake.net
 
-http://ichigotake.net/ - The portal site of @ichigotake.
+http://ichigotake.net/ - The portal site of @ichigotake
 
 ## Policy
 
-Minify everything as possible.
+Minify everything as possible
 
